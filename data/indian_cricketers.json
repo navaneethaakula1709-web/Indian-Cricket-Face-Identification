@@ -1,0 +1,568 @@
+{
+    "Virat_Kohli": {
+        "full_name": "Virat Kohli",
+        "country": "India",
+        "team": "India",
+        "role": "Batter",
+        "batting_style": "Right-handed",
+        "bowling_style": "Right-arm medium",
+        "jersey_number": 18,
+        "date_of_birth": "5 November 1988",
+        "career_status": "International cricketer",
+        "bio": "Virat Kohli is one of India's most successful international batters. He is known for his consistency, fitness, aggressive batting and leadership.",
+        "career_history": "Kohli represented India at Under-19 level before making his international debut. He became a key player across all three formats and served as captain of the Indian men's team.",
+        "major_achievements": [
+            "ICC Cricket World Cup winner",
+            "ICC Champions Trophy winner",
+            "Former captain of the Indian cricket team",
+            "One of India's leading international run scorers"
+        ]
+    },
+    "Rohit_Sharma": {
+        "full_name": "Rohit Sharma",
+        "country": "India",
+        "team": "India",
+        "role": "Batter",
+        "batting_style": "Right-handed",
+        "bowling_style": "Right-arm off break",
+        "jersey_number": 45,
+        "date_of_birth": "30 April 1987",
+        "career_status": "International cricketer",
+        "bio": "Rohit Sharma is an Indian opening batter known for his elegant stroke play and ability to score large innings.",
+        "career_history": "Rohit became an important member of India's limited-overs teams and later served as captain of the Indian men's team.",
+        "major_achievements": [
+            "ICC Cricket World Cup winner",
+            "Multiple-time IPL champion as captain",
+            "Former captain of the Indian cricket team",
+            "Known for multiple double centuries in ODI cricket"
+        ]
+    },
+    "Jasprit_Bumrah": {
+        "full_name": "Jasprit Bumrah",
+        "country": "India",
+        "team": "India",
+        "role": "Bowler",
+        "batting_style": "Right-handed",
+        "bowling_style": "Right-arm fast",
+        "jersey_number": 93,
+        "date_of_birth": "6 December 1993",
+        "career_status": "International cricketer",
+        "bio": "Jasprit Bumrah is an Indian fast bowler known for his pace, accuracy, yorkers and unusual bowling action.",
+        "career_history": "Bumrah established himself as one of India's leading fast bowlers across limited-overs and Test cricket.",
+        "major_achievements": [
+            "Key member of India's international bowling attack",
+            "ICC tournament winner",
+            "One of India's leading modern fast bowlers"
+        ]
+    },
+    "Hardik_Pandya": {
+        "full_name": "Hardik Pandya",
+        "country": "India",
+        "team": "India",
+        "role": "All-rounder",
+        "batting_style": "Right-handed",
+        "bowling_style": "Right-arm medium-fast",
+        "jersey_number": 33,
+        "date_of_birth": "11 October 1993",
+        "career_status": "International cricketer",
+        "bio": "Hardik Pandya is an Indian all-rounder known for powerful batting and medium-fast bowling.",
+        "career_history": "Pandya rose through domestic and IPL cricket before becoming an important all-rounder for India in limited-overs cricket.",
+        "major_achievements": [
+            "ICC Cricket World Cup finalist",
+            "Important all-rounder for India",
+            "Successful IPL captain and player"
+        ]
+    },
+    "Ms_Dhoni": {
+        "full_name": "Mahendra Singh Dhoni",
+        "country": "India",
+        "team": "India",
+        "role": "Wicketkeeper-Batter",
+        "batting_style": "Right-handed",
+        "bowling_style": "Right-arm medium",
+        "jersey_number": 7,
+        "date_of_birth": "7 July 1981",
+        "career_status": "Former international cricketer",
+        "bio": "MS Dhoni is one of India's most successful wicketkeeper-batters and captains. He is widely known for his calm leadership and finishing ability.",
+        "career_history": "Dhoni led India in all three formats and became one of the most successful captains in Indian cricket history. He retired from international cricket in 2020.",
+        "major_achievements": [
+            "ICC Cricket World Cup winner",
+            "ICC T20 World Cup winner",
+            "ICC Champions Trophy winner",
+            "Former captain of the Indian cricket team",
+            "Successful IPL captain"
+        ]
+    },
+    "bhuvneshwar_kumar": {
+        "full_name": "Bhuvneshwar Kumar",
+        "country": "India",
+        "team": "India",
+        "role": "Bowler",
+        "batting_style": "Right-handed",
+        "bowling_style": "Right-arm medium",
+        "jersey_number": null,
+        "date_of_birth": "5 February 1990",
+        "career_status": "International cricketer",
+        "bio": "Bhuvneshwar Kumar is an Indian swing bowler known for controlling the new ball and bowling accurately.",
+        "career_history": "He made his international debut in 2012 and represented India in Tests, ODIs and T20Is.",
+        "major_achievements": [
+            "Known for swing bowling",
+            "Represented India across international formats"
+        ]
+    },
+    "dinesh_karthik": {
+        "full_name": "Dinesh Karthik",
+        "country": "India",
+        "team": "India",
+        "role": "Wicketkeeper-Batter",
+        "batting_style": "Right-handed",
+        "bowling_style": "Not applicable",
+        "jersey_number": null,
+        "date_of_birth": "1 June 1985",
+        "career_status": "Former international cricketer",
+        "bio": "Dinesh Karthik is an Indian wicketkeeper-batter known for his finishing ability.",
+        "career_history": "He represented India internationally and played for multiple franchises in the Indian Premier League.",
+        "major_achievements": [
+            "Represented India in international cricket",
+            "Played in multiple IPL seasons"
+        ]
+    },
+    "k._l._rahul": {
+        "full_name": "KL Rahul",
+        "country": "India",
+        "team": "India",
+        "role": "Wicketkeeper-Batter",
+        "batting_style": "Right-handed",
+        "bowling_style": "Not applicable",
+        "jersey_number": null,
+        "date_of_birth": "18 April 1992",
+        "career_status": "International cricketer",
+        "bio": "KL Rahul is an Indian batter who can open or bat in the middle order and also keep wickets.",
+        "career_history": "Rahul has represented India in all three international formats and played for several IPL teams.",
+        "major_achievements": [
+            "Represented India in all three formats",
+            "Served as captain for IPL franchises"
+        ]
+    },
+    "kedar_jadhav": {
+        "full_name": "Kedar Jadhav",
+        "country": "India",
+        "team": "India",
+        "role": "Batting all-rounder",
+        "batting_style": "Right-handed",
+        "bowling_style": "Right-arm off break",
+        "jersey_number": null,
+        "date_of_birth": "26 March 1985",
+        "career_status": "Former international cricketer",
+        "bio": "Kedar Jadhav is an Indian batter and part-time off-spin bowler.",
+        "career_history": "He represented India mainly in limited-overs cricket and played domestic cricket and in the IPL.",
+        "major_achievements": [
+            "Represented India in ODI and T20I cricket"
+        ]
+    },
+    "kuldeep_yadav": {
+        "full_name": "Kuldeep Yadav",
+        "country": "India",
+        "team": "India",
+        "role": "Bowler",
+        "batting_style": "Left-handed",
+        "bowling_style": "Left-arm wrist spin",
+        "jersey_number": null,
+        "date_of_birth": "14 December 1994",
+        "career_status": "International cricketer",
+        "bio": "Kuldeep Yadav is an Indian wrist-spin bowler known for his variations.",
+        "career_history": "He has represented India in international cricket across formats and played in the IPL.",
+        "major_achievements": [
+            "Represented India in international cricket",
+            "Known for left-arm wrist spin"
+        ]
+    },
+    "mohammed_shami": {
+        "full_name": "Mohammed Shami",
+        "country": "India",
+        "team": "India",
+        "role": "Bowler",
+        "batting_style": "Right-handed",
+        "bowling_style": "Right-arm fast",
+        "jersey_number": null,
+        "date_of_birth": "3 September 1990",
+        "career_status": "International cricketer",
+        "bio": "Mohammed Shami is an Indian fast bowler known for seam movement and wicket-taking ability.",
+        "career_history": "He has represented India in Tests, ODIs and T20Is and played a major role in several international campaigns.",
+        "major_achievements": [
+            "Important member of India's pace attack",
+            "Strong performances in major ICC tournaments"
+        ]
+    },
+    "ravindra_jadeja": {
+        "full_name": "Ravindra Jadeja",
+        "country": "India",
+        "team": "India",
+        "role": "All-rounder",
+        "batting_style": "Left-handed",
+        "bowling_style": "Left-arm orthodox spin",
+        "jersey_number": null,
+        "date_of_birth": "6 December 1988",
+        "career_status": "International cricketer",
+        "bio": "Ravindra Jadeja is an Indian all-rounder known for left-arm spin, batting and exceptional fielding.",
+        "career_history": "Jadeja has been an important player for India across formats and has played for Chennai Super Kings in the IPL.",
+        "major_achievements": [
+            "ICC tournament winner",
+            "Renowned international all-rounder"
+        ]
+    },
+    "shikhar_dhawan": {
+        "full_name": "Shikhar Dhawan",
+        "country": "India",
+        "team": "India",
+        "role": "Batter",
+        "batting_style": "Left-handed",
+        "bowling_style": "Right-arm off break",
+        "jersey_number": null,
+        "date_of_birth": "5 December 1985",
+        "career_status": "Former international cricketer",
+        "bio": "Shikhar Dhawan is a former Indian opening batter known for his aggressive stroke play.",
+        "career_history": "He represented India in international cricket and was part of major ICC tournament-winning campaigns.",
+        "major_achievements": [
+            "ICC Champions Trophy winner",
+            "Successful international opening batter"
+        ]
+    },
+    "vijay_shankar": {
+        "full_name": "Vijay Shankar",
+        "country": "India",
+        "team": "India",
+        "role": "All-rounder",
+        "batting_style": "Right-handed",
+        "bowling_style": "Right-arm medium",
+        "jersey_number": null,
+        "date_of_birth": "26 January 1991",
+        "career_status": "Indian cricketer",
+        "bio": "Vijay Shankar is an Indian batting all-rounder who bowls right-arm medium pace.",
+        "career_history": "He represented India in limited-overs international cricket and has played domestic cricket and in the IPL.",
+        "major_achievements": [
+            "Represented India in ODI and T20I cricket"
+        ]
+    },
+    "yuzvendra_chahal": {
+        "full_name": "Yuzvendra Chahal",
+        "country": "India",
+        "team": "India",
+        "role": "Bowler",
+        "batting_style": "Right-handed",
+        "bowling_style": "Right-arm leg spin",
+        "jersey_number": null,
+        "date_of_birth": "23 July 1990",
+        "career_status": "International cricketer",
+        "bio": "Yuzvendra Chahal is an Indian leg-spin bowler known for taking wickets in limited-overs cricket.",
+        "career_history": "He has represented India in ODIs and T20Is and played for multiple IPL franchises.",
+        "major_achievements": [
+            "One of India's leading T20I wicket-takers",
+            "Represented India in major international tournaments"
+        ]
+    },
+    "Shubman_Gill": {
+        "full_name": "Shubman Gill",
+        "country": "India",
+        "team": "India",
+        "role": "Top-order Batter",
+        "batting_style": "Left-handed",
+        "bowling_style": "Right-arm off break",
+        "jersey_number": null,
+        "date_of_birth": "8 September 1999",
+        "career_status": "Cricketer",
+        "bio": "Indian international batter known for elegant stroke play.",
+        "career_history": "Represented India in Test, ODI and T20I cricket and played in the IPL.",
+        "major_achievements": [
+            "India Under-19 World Cup winner in 2018",
+            "Scored an ODI double century"
+        ]
+    },
+    "Rishabh_Pant": {
+        "full_name": "Rishabh Pant",
+        "country": "India",
+        "team": "India",
+        "role": "Wicketkeeper-Batter",
+        "batting_style": "Left-handed",
+        "bowling_style": "Not applicable",
+        "jersey_number": null,
+        "date_of_birth": "4 October 1997",
+        "career_status": "Cricketer",
+        "bio": "Indian wicketkeeper-batter known for aggressive batting.",
+        "career_history": "Represented India internationally and played in the IPL.",
+        "major_achievements": [
+            "Member of India's 2024 T20 World Cup-winning squad"
+        ]
+    },
+    "Suryakumar_Yadav": {
+        "full_name": "Suryakumar Yadav",
+        "country": "India",
+        "team": "India",
+        "role": "Middle-order Batter",
+        "batting_style": "Right-handed",
+        "bowling_style": "Right-arm medium",
+        "jersey_number": null,
+        "date_of_birth": "14 September 1990",
+        "career_status": "Cricketer",
+        "bio": "Indian batter known for innovative T20 stroke play.",
+        "career_history": "Played domestic cricket and the IPL before establishing himself in India's T20I team.",
+        "major_achievements": [
+            "ICC Men's T20I Cricketer of the Year in 2022 and 2023"
+        ]
+    },
+    "Sanju_Samson": {
+        "full_name": "Sanju Samson",
+        "country": "India",
+        "team": "India",
+        "role": "Wicketkeeper-Batter",
+        "batting_style": "Right-handed",
+        "bowling_style": "Not applicable",
+        "jersey_number": null,
+        "date_of_birth": "11 November 1994",
+        "career_status": "Cricketer",
+        "bio": "Indian wicketkeeper-batter known for fluent stroke play.",
+        "career_history": "Represented India in limited-overs cricket and captained Rajasthan Royals in the IPL.",
+        "major_achievements": [
+            "IPL captain",
+            "Represented India in T20I and ODI cricket"
+        ]
+    },
+    "Shreyas_Iyer": {
+        "full_name": "Shreyas Iyer",
+        "country": "India",
+        "team": "India",
+        "role": "Middle-order Batter",
+        "batting_style": "Right-handed",
+        "bowling_style": "Right-arm leg break",
+        "jersey_number": null,
+        "date_of_birth": "6 December 1994",
+        "career_status": "Cricketer",
+        "bio": "Indian middle-order batter known for playing spin well.",
+        "career_history": "Represented India in international cricket and captained IPL franchises.",
+        "major_achievements": [
+            "Member of India's 2023 ODI World Cup squad"
+        ]
+    },
+    "Ishan_Kishan": {
+        "full_name": "Ishan Kishan",
+        "country": "India",
+        "team": "India",
+        "role": "Wicketkeeper-Batter",
+        "batting_style": "Left-handed",
+        "bowling_style": "Not applicable",
+        "jersey_number": null,
+        "date_of_birth": "18 July 1998",
+        "career_status": "Cricketer",
+        "bio": "Indian wicketkeeper-batter known for aggressive limited-overs batting.",
+        "career_history": "Played domestic cricket, the IPL and represented India internationally.",
+        "major_achievements": [
+            "Scored an ODI double century"
+        ]
+    },
+    "Mohammed_Siraj": {
+        "full_name": "Mohammed Siraj",
+        "country": "India",
+        "team": "India",
+        "role": "Bowler",
+        "batting_style": "Right-handed",
+        "bowling_style": "Right-arm fast",
+        "jersey_number": null,
+        "date_of_birth": "13 March 1994",
+        "career_status": "Cricketer",
+        "bio": "Indian fast bowler known for pace and seam movement.",
+        "career_history": "Rose through domestic and IPL cricket to represent India internationally.",
+        "major_achievements": [
+            "Key member of India's pace attack"
+        ]
+    },
+    "Ruturaj_Gaikwad": {
+        "full_name": "Ruturaj Gaikwad",
+        "country": "India",
+        "team": "India",
+        "role": "Opening Batter",
+        "batting_style": "Right-handed",
+        "bowling_style": "Right-arm off break",
+        "jersey_number": null,
+        "date_of_birth": "31 January 1997",
+        "career_status": "Cricketer",
+        "bio": "Indian batter known for timing and consistency.",
+        "career_history": "Represented India in limited-overs cricket and played for Chennai Super Kings.",
+        "major_achievements": [
+            "IPL Orange Cap winner in 2021"
+        ]
+    },
+    "Nitish_Rana": {
+        "full_name": "Nitish Rana",
+        "country": "India",
+        "team": "India",
+        "role": "Batter",
+        "batting_style": "Left-handed",
+        "bowling_style": "Right-arm off break",
+        "jersey_number": null,
+        "date_of_birth": "27 December 1993",
+        "career_status": "Cricketer",
+        "bio": "Indian batter who has played domestic cricket and in the IPL.",
+        "career_history": "Known for domestic and franchise cricket performances.",
+        "major_achievements": [
+            "IPL franchise captain"
+        ]
+    },
+    "Smriti_Mandhana": {
+        "full_name": "Smriti Mandhana",
+        "country": "India",
+        "team": "India Women",
+        "role": "Opening Batter",
+        "batting_style": "Left-handed",
+        "bowling_style": "Right-arm off break",
+        "jersey_number": null,
+        "date_of_birth": "18 July 1996",
+        "career_status": "Cricketer",
+        "bio": "Indian women's international batter known for elegant left-handed batting.",
+        "career_history": "Represented India in women's international cricket and franchise leagues.",
+        "major_achievements": [
+            "ICC Women's Cricketer of the Year in 2018 and 2021"
+        ]
+    },
+    "Harmanpreet_Kaur": {
+        "full_name": "Harmanpreet Kaur",
+        "country": "India",
+        "team": "India Women",
+        "role": "All-rounder",
+        "batting_style": "Right-handed",
+        "bowling_style": "Right-arm off break",
+        "jersey_number": null,
+        "date_of_birth": "8 March 1989",
+        "career_status": "Cricketer",
+        "bio": "Indian women's cricketer and captain known for powerful batting.",
+        "career_history": "Represented India in all three women's international formats.",
+        "major_achievements": [
+            "Scored 171 not out in the 2017 Women's World Cup semi-final"
+        ]
+    },
+    "Jemimah_Rodrigues": {
+        "full_name": "Jemimah Rodrigues",
+        "country": "India",
+        "team": "India Women",
+        "role": "Batter",
+        "batting_style": "Right-handed",
+        "bowling_style": "Right-arm off break",
+        "jersey_number": null,
+        "date_of_birth": "5 September 2000",
+        "career_status": "Cricketer",
+        "bio": "Indian women's batter known for energetic stroke play.",
+        "career_history": "Represented India in women's international cricket and franchise leagues.",
+        "major_achievements": [
+            "Represented India at major ICC women's tournaments"
+        ]
+    },
+    "Deepti_Sharma": {
+        "full_name": "Deepti Sharma",
+        "country": "India",
+        "team": "India Women",
+        "role": "All-rounder",
+        "batting_style": "Left-handed",
+        "bowling_style": "Right-arm off break",
+        "jersey_number": null,
+        "date_of_birth": "24 August 1997",
+        "career_status": "Cricketer",
+        "bio": "Indian women's all-rounder known for batting and off-spin bowling.",
+        "career_history": "Represented India across women's international formats and franchise competitions.",
+        "major_achievements": [
+            "One of India's leading women's all-rounders"
+        ]
+    },
+    "Shafali_Verma": {
+        "full_name": "Shafali Verma",
+        "country": "India",
+        "team": "India Women",
+        "role": "Opening Batter",
+        "batting_style": "Right-handed",
+        "bowling_style": "Right-arm off break",
+        "jersey_number": null,
+        "date_of_birth": "28 January 2004",
+        "career_status": "Cricketer",
+        "bio": "Indian women's opening batter known for aggressive batting.",
+        "career_history": "Represented India in women's international cricket and franchise leagues.",
+        "major_achievements": [
+            "Member of India's 2023 ICC Women's Under-19 T20 World Cup-winning team"
+        ]
+    },
+    "Richa_Ghosh": {
+        "full_name": "Richa Ghosh",
+        "country": "India",
+        "team": "India Women",
+        "role": "Wicketkeeper-Batter",
+        "batting_style": "Right-handed",
+        "bowling_style": "Not applicable",
+        "jersey_number": null,
+        "date_of_birth": "28 September 2003",
+        "career_status": "Cricketer",
+        "bio": "Indian women's wicketkeeper-batter known for powerful hitting.",
+        "career_history": "Represented India in women's international cricket.",
+        "major_achievements": [
+            "Member of India's 2023 ICC Women's Under-19 T20 World Cup-winning team"
+        ]
+    },
+    "Harleen_Deol": {
+        "full_name": "Harleen Deol",
+        "country": "India",
+        "team": "India Women",
+        "role": "Batter",
+        "batting_style": "Right-handed",
+        "bowling_style": "Right-arm leg break",
+        "jersey_number": null,
+        "date_of_birth": "21 June 1998",
+        "career_status": "Cricketer",
+        "bio": "Indian women's cricketer who bats and fields in the outfield.",
+        "career_history": "Represented India in women's international cricket.",
+        "major_achievements": [
+            "Represented India in international women's cricket"
+        ]
+    },
+    "Radha_Yadav": {
+        "full_name": "Radha Yadav",
+        "country": "India",
+        "team": "India Women",
+        "role": "Bowler",
+        "batting_style": "Left-handed",
+        "bowling_style": "Slow left-arm orthodox",
+        "jersey_number": null,
+        "date_of_birth": "21 April 2000",
+        "career_status": "Cricketer",
+        "bio": "Indian women's spin bowler.",
+        "career_history": "Represented India in women's limited-overs international cricket.",
+        "major_achievements": [
+            "Represented India in major women's tournaments"
+        ]
+    },
+    "Shubhlakshmi_Sharma": {
+        "full_name": "Shubhlakshmi Sharma",
+        "country": "India",
+        "team": "India",
+        "role": "Bowler",
+        "batting_style": "N/A",
+        "bowling_style": "N/A",
+        "jersey_number": null,
+        "date_of_birth": "N/A",
+        "career_status": "Cricketer",
+        "bio": "Indian cricketer profile; verify biographical details against an official source.",
+        "career_history": "Career details require verification from an authoritative player record.",
+        "major_achievements": []
+    },
+    "Sneh_Rana": {
+        "full_name": "Sneh Rana",
+        "country": "India",
+        "team": "India Women",
+        "role": "All-rounder",
+        "batting_style": "Right-handed",
+        "bowling_style": "Right-arm off break",
+        "jersey_number": null,
+        "date_of_birth": "18 February 1994",
+        "career_status": "Cricketer",
+        "bio": "Indian women's all-rounder known for spin bowling.",
+        "career_history": "Represented India in women's international cricket.",
+        "major_achievements": [
+            "Represented India in Test, ODI and T20I cricket"
+        ]
+    }
+}
