@@ -4,3 +4,4 @@ deepface
 opencv-python-headless
 pandas
 Pillow
+scikit-learn
